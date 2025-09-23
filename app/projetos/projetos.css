@@ -1,0 +1,20 @@
+.projeto{
+    height: 100%;
+    width: 100%;
+}
+.projeto h1{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.projeto-container{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
+    padding: 10px;
+    
+}
